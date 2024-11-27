@@ -1,14 +1,14 @@
 {
-  "name": "第一次作业",
-  "description": "第一次作业的描述，详细查看仓库根目录的 README.md",
-  "type": "OS",
+  "name": "CPU的RTL代码",
+  "description": "RTL文件仓库",
+  "type": "CPU",
   "status": "open",
-  "id": "week-1",
+  "id": "week-5",
   "version": 1,
   "config_version": 1,
   "auto_grade": {
-    "enable": true,
-    "upload_output": true,
+    "enable": false,
+    "upload_output": false,
     "steps": [
       {
         "title": "Step 1",
